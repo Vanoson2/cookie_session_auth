@@ -20,4 +20,5 @@
 - **Method**: GET
 - **URL**: `http://localhost:3000/auth/logout`
 ![alt text](img/image-5.png)
+![alt text](img/image7.png)
 ![alt text](img/image-6.png)
